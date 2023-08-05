@@ -1,6 +1,6 @@
 <br>
 </br>
-<h1 align="center">python-calculator</h1>
+<h1 align="center">pyCalculator</h1>
 <h3 align="center">A simple calculator run on Replit</h3>
 
 
