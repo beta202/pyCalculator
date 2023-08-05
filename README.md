@@ -1,6 +1,10 @@
-# python-calculator
-A simple calculator ran by Replit
+<br>
+</br>
+<h1 align="center">python-calculator</h1>
+<h3 align="center">A simple calculator run on Replit</h3>
 
-⚠️ Project not completed ⚠️
 
-Test the beta at: https://replit.com/@beta202/python-calculator
+<br>
+</br>
+<p align="center">Test the beta now:</p>
+<p align="center">https://replit.com/@beta202/python-calculator</p>
